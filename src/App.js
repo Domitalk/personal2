@@ -10,6 +10,8 @@ function App() {
           a. wide or double col
         4. bottom of page links also 
         5. floating nob that stays at the bottom right that takes you back to the top
+
+        // maybe add css animation w/parallax so that title for secions show up as you scroll
     </div>
   );
 }
