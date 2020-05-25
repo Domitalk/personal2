@@ -1,24 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+        1. Blank space - parallax background with the blank showing through 
+        2. Flat wide card fit to screen w/ photo of self + image links to everything 
+        3. Projects section 
+          a. wide or double col
+        4. bottom of page links also 
+        5. floating nob that stays at the bottom right that takes you back to the top
     </div>
   );
 }
